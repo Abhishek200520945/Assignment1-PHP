@@ -1,0 +1,41 @@
+/* Setting our back*/
+*{
+  background-color: #00ff04;
+}
+html{
+  background-color: #37ff00;
+}
+body{
+  background-color: #51ec14;
+}
+h1{
+  color: rgb(212, 22, 22);
+  text-align: center;
+  text-decoration: none;
+
+}
+.offcanvas-body{
+  background-color: rgb(207, 24, 24);
+}
+.offcanvas-header{
+  background-color: black;
+}
+h5{
+  background-color: rgb(17, 215, 250);
+}
+.navbar-toggler{
+  background-color: green;
+}
+.offcanvas offcanvas-end text-bg-dark{
+  background-color: black;
+}
+.navbar-toggler-icon{
+  background-color: rgb(72, 12, 222);
+}
+.nav-item{
+  background-color: black;
+  color: black;
+}
+.offcanvas-body{
+  background-color: rgb(15, 222, 146);
+}
